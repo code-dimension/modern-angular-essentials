@@ -47,10 +47,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/codedimension/cd-modern-angular-essentials.git"
+    "url": "https://github.com/code-dimension/modern-angular-essentials.git"
   },
   "bugs": {
-    "url": "https://github.com/codedimension/cd-modern-angular-essentials/issues"
+    "url": "https://github.com/code-dimension/modern-angular-essentials/issues"
   },
-  "homepage": "https://github.com/codedimension/cd-modern-angular-essentials#readme"
+  "homepage": "https://github.com/code-dimension/modern-angular-essentials#readme"
 }

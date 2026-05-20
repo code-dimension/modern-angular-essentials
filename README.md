@@ -3,7 +3,7 @@
 [![Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/codedimension.cd-modern-angular-essentials.svg?style=for-the-badge&color=e03e2f)](https://marketplace.visualstudio.com/items?itemName=codedimension.cd-modern-angular-essentials)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/codedimension.cd-modern-angular-essentials.svg?style=for-the-badge&color=0f172a)](https://marketplace.visualstudio.com/items?itemName=codedimension.cd-modern-angular-essentials)
 [![Open VSX](https://img.shields.io/open-vsx/v/codedimension/cd-modern-angular-essentials?style=for-the-badge&color=4c1d95)](https://open-vsx.org/extension/codedimension/cd-modern-angular-essentials)
-[![License](https://img.shields.io/github/license/codedimension/cd-modern-angular-essentials?style=for-the-badge&color=22c55e)](LICENSE)
+[![License](https://img.shields.io/github/license/code-dimension/modern-angular-essentials?style=for-the-badge&color=22c55e)](LICENSE)
 
 **Modern Angular Essentials** is the ultimate, curated extension pack designed by **Code Dimension** to deliver a premium, high-productivity environment for TypeScript, Angular, and full-stack front-end developers. Whether you're working on advanced reactive patterns, designing with Tailwind CSS, or looking for beautiful, clean developer tooling, this pack contains everything you need to build at speed.
 
