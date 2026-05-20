@@ -64,7 +64,7 @@ code --install-extension codedimension.cd-modern-angular-essentials
 If you are using the pre-compiled local `.vsix` file:
 1. Open the Extensions side-bar.
 2. Click the `...` menu (top right of the Extensions panel).
-3. Select **Install from VSIX...** and choose the `cd-modern-angular-essentials-1.0.0.vsix` file.
+3. Select **Install from VSIX...** and choose the `modern-angular-essentials-1.0.1.vsix` file.
 
 ---
 
@@ -101,7 +101,7 @@ npx @vscode/vsce package --no-dependencies
    ```
 3. Publish:
    ```bash
-   npx ovsx publish cd-modern-angular-essentials-1.0.0.vsix
+   npx ovsx publish modern-angular-essentials-1.0.1.vsix
    ```
 
 ---
