@@ -1,0 +1,56 @@
+{
+  "name": "cd-modern-angular-essentials",
+  "displayName": "Modern Angular Essentials Pack",
+  "description": "The ultimate extension pack for modern Angular development, curated by Code Dimension. Bundles ESLint, Prettier, GitLens, Tailwind CSS, Copilot Theme, Spek, Pretty TS Errors, and Todo+.",
+  "version": "1.0.0",
+  "publisher": "codedimension",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "scripts": {
+    "package": "vsce package --no-dependencies"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0F172A",
+    "theme": "dark"
+  },
+  "keywords": [
+    "angular",
+    "typescript",
+    "tailwindcss",
+    "eslint",
+    "prettier",
+    "gitlens",
+    "theme",
+    "todo",
+    "kotlin",
+    "spek"
+  ],
+  "extensionPack": [
+    "kewang.spek-vscode",
+    "BenjaminBenais.copilot-theme",
+    "yoavbls.pretty-ts-errors",
+    "Angular.ng-template",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "fabiospamponato.vscode-todo-plus",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "EditorConfig.EditorConfig",
+    "imfeniljikadara.figure"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codedimension/cd-modern-angular-essentials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codedimension/cd-modern-angular-essentials/issues"
+  },
+  "homepage": "https://github.com/codedimension/cd-modern-angular-essentials#readme"
+}
