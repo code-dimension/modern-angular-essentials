@@ -1,6 +1,6 @@
 {
-  "name": "modern-angular-essentials",
-  "displayName": "Modern Angular Essentials Pack",
+  "name": "cd-angular-essentials-suite",
+  "displayName": "Modern Angular Essentials Suite",
   "description": "The ultimate extension pack for modern Angular development, curated by Code Dimension. Bundles ESLint, Prettier, GitLens, Tailwind CSS, Copilot Theme, Spek, Pretty TS Errors, and Todo+.",
   "version": "1.0.1",
   "publisher": "codedimension",
